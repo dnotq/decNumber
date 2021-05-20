@@ -1,0 +1,11 @@
+# Default build and install
+build/
+install/
+decNumber_patched/
+
+# Eclipse projects and build
+.settings/
+.cproject
+.project
+Debug/
+Release/
